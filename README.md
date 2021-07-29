@@ -1,2 +1,2 @@
 # Sistema de Ventas
-Aplicación creada con Python y se utilizo la libreria Tkinter
+Application created with Python and used the Tkinter library
